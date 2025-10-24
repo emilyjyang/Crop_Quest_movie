@@ -113,7 +113,7 @@ For time-series **3D stack movies**, it is recommended to generate a **Maximum I
 
 ## Citation
 If you use this macro in your research, please cite:  
-> [Emily J Yang], *AOC-Actin_movie_cropper-v1.ijm: FIJI Macro for Cropping and Preprocessing Actin Cable Movies in Budding Yeast*, [Year].
+> Yang, E.J.-N., Filpo, K., Boldogh, I., Swayne, T.C., and Pon, L.A. "Tying up loose ends: an actin cable organizing center contributes to actin cable polarity, function and quality control in budding yeast." submitted. [2025]
 
 ---
 
